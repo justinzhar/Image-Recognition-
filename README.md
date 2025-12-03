@@ -9,6 +9,10 @@ The model is trained on a labeled dataset (train.csv) and evaluated using indust
 
 A custom Tkinter GUI viewer is included, allowing users to scroll through the test.csv dataset and view each predicted digit next to its corresponding image.
 
+*Video Walkthrough*
+
+https://discord.com/channels/@me/1413559922024644639/1442633399729655850
+
 *Features*
 
 - Fully working CNN for image classification
