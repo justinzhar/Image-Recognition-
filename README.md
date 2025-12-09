@@ -11,8 +11,8 @@ A custom Tkinter GUI viewer is included, allowing users to scroll through the te
 
 *Video Walkthrough*
 
-https://cdn.discordapp.com/attachments/1413559922024644639/1442633398886862939/video2557987009.mp4?ex=6931594d&is=693007cd&hm=f70aee7ec7437b89b51787b61a4d69959679568be090808aa7c3ed74976739cc&
-
+[https://drive.google.com/drive/u/0/folders/1q3wXWSMUgLBOzCr22wkwbzHw0gEXYSt9
+https://drive.google.com/file/d/1pljSYbVf2568bcO8gkI2BfC_4g1IyQ0j/view?usp=sharing
 *Features*
 
 - Fully working CNN for image classification
