@@ -11,7 +11,8 @@ A custom Tkinter GUI viewer is included, allowing users to scroll through the te
 
 *Video Walkthrough*
 
-[https://drive.google.com/drive/u/0/folders/1q3wXWSMUgLBOzCr22wkwbzHw0gEXYSt9
+https://drive.google.com/drive/u/0/folders/1q3wXWSMUgLBOzCr22wkwbzHw0gEXYSt9
+https://drive.google.com/file/d/1Ij7X7yqX9LBvHTl1Rd9I6AmRJDaTh-rY/view?usp=sharing
 https://drive.google.com/file/d/1pljSYbVf2568bcO8gkI2BfC_4g1IyQ0j/view?usp=sharing
 
 *Features*
